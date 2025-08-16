@@ -50,8 +50,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aniketjadhav&show_icons=true&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjadhav&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=aniketjadhav25000&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjadhav25000&theme=tokyonight" alt="streak" />
 </p>
 
 ---
