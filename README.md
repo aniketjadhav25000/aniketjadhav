@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently exploring **LLMs, Generative AI, and Advanced Frontend Architectures**  
+- 🌱 Currently exploring **LLMs, Generative AI, and Advanced Frontend Architectures**  
 - 💻 Skilled in **MERN stack** with specialization in **React, Angular, and Next.js**  
-- 🤝 I’m looking to collaborate on **AI/ML projects, GenAI apps, and open-source frontend tools**  
+- 🤝 Open to collaborate on **AI/ML projects, GenAI apps, and open-source frontend tools**  
 - 📫 Reach me at: **your-email@example.com**  
 - ⚡ Fun fact: _I love blending frontend creativity with AI intelligence!_  
 
@@ -14,9 +14,9 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://github.com/aniketjadhav" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://your-portfolio-link.com" target="blank"><img src="[https://img.shields.io/badge/Portfolio-%23FF7139](https://portfolio-ani-react.netlify.app/).svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/aniket-jadhav-a72466236/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://github.com/aniketjadhav25000" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://portfolio-ani-react.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio"/></a>
 </p>
 
 ---
@@ -50,8 +50,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aniketjadhav25000&show_icons=true&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjadhav25000&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketjadhav25000&show_icons=true&count_private=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjadhav25000&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjadhav25000&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
