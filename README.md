@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://github.com/aniketjadhav" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://your-portfolio-link.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio"/></a>
+<a href="https://your-portfolio-link.com" target="blank"><img src="[https://img.shields.io/badge/Portfolio-%23FF7139](https://portfolio-ani-react.netlify.app/).svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio"/></a>
 </p>
 
 ---
