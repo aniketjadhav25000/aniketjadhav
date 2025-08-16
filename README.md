@@ -9,6 +9,14 @@
 </p>
 
 ---
+### 👨‍💻 About Me
+- 🚀 Full Stack Developer skilled in **MERN, Angular, and Next.js** with AI/ML expertise  
+- 🤖 Passionate about **Generative AI (LLMs, Prompt Engineering, Computer Vision, Speech Recognition)**  
+- 💻 Experienced with **React.js, Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, MySQL**  
+- ☁️ Deployment experience on **AWS, Render, Netlify**  
+- 📫 Reach me at: **aniket.jadhav20703@gmail.com**  
+- ⚡ Fun fact: _I love blending frontend creativity with AI intelligence!_  
+---
 
 ### 🚀 Featured Projects
 
